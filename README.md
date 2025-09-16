@@ -1,2 +1,4 @@
-# Spiritual-movement-wisdom
-Inner wisdom
+_config.yml
+index.md
+_posts/
+about.md,contact.md
