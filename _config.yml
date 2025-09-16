@@ -1,0 +1,9 @@
+title: Spiritual Movement Wisdom
+description: A spiritual wisdom blog
+author: spiritualmovementwisdom-dot
+theme: minima
+baseurl: ""
+url: "https://spiritualmovementwisdom-dot.github.io/spiritual-movement-wisdom"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
